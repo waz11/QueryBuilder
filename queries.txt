@@ -1,0 +1,7 @@
+class list implements iterable,class list contains class node
+class longList implements iterator,class longList contains class listNode
+class BlockList contains method xor
+class aesAttack contains method enc, class aesAttack contains method dec
+class breadthSearch, method search, method solve
+interface generator, interface mazeGenerator, class maze, class position, method start, class breadh_search, class search
+method calculate,class expression,method evaluate
